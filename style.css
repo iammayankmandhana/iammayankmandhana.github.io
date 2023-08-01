@@ -356,6 +356,7 @@ section
 }
 
 .bannerText p {
+  width: 450px;
   font-size: 18px;
   font-weight: bold;
   margin: 5px 0;
